@@ -1,0 +1,21 @@
+---
+title: "SpatialBiology"
+---
+
+# Spatial Biology Project
+
+## Notes: Meeting 07/14/2023
+
+Attendees: Levy & Brent
+
+**Summary of discussion:** Prior meeting with Malek, Paolo and Levy about NIH Program grant. Three projects to present and one core presentation. Total presentation time of 1 hour, about 20 minutes per person to present ideas and preliminary data. Levy to let me know the persons name to direct the CODEX core.
+
+Program presentation specific to the Levy lab and myself. Discussion about specific aims. First, we established two models: B6 \<- BALB and C3HSW \<- BALB. Aim 1 will be GI/Skin micro-environment w/o treatments or cell manipulations. Aim 2 will be the application of TNFSFR25/CD25 +/- fusion protein manipulations. Both aims will have CODEX sub aims, Flow Cytometry sub aims, and single cell RNA sub aims. Aim 2 will also have an additional sub aim of GVL. Aim 3 will be a translational component assessing human GI tissue micro-environment before HSCT (if possible) and after HSCT. Levy to discuss/develop this idea further with Trent.
+
+Follow up next week by phone 7/17 or 7/18.
+
+**Brent** will work on a set of specific aims and continue preliminary work on cell segmentation analyses.
+
+**Levy** will f/u with Victor about materials and tissues
+
+Alejandro Caicedo from DRI will be the core director.
